@@ -28,12 +28,12 @@ Python,Sockets,Pygame,Threading,Tkinter
 
 # Team:
 
-Shikhar Srivastava(Mentor) 
+[Shikhar Srivastava](https://github.com/shikharsrivastava) (Mentor) 
 
 Back End:
 Prerna Garg, Amit Yadav.
 
 Front End:
-Mratyunjay Soni, Aditya Shukla. 
+[Mratyunjay Soni](https://github.com/man-of-code), [Aditya Shukla](https://github.com/Adityash786). 
 
 
